@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chat33": {
+      "type": "http",
+      "url": "https://chat33.io/api/mcp/mcp"
+    }
+  }
+}

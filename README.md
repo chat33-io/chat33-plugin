@@ -44,7 +44,7 @@ claude mcp add --transport http chat33 https://chat33.io/api/mcp/mcp
 ```
 .cursor-plugin/plugin.json   Cursor manifest
 plugin.json                  Agent Plugins manifest
-mcp.json                     Chat33 MCP server (remote, OAuth)
+mcp.json, .mcp.json          Chat33 MCP server (remote, OAuth)
 skills/                      get-started, comment-to-dm, inbox-and-comments, publish-posts
 assets/logo.png
 ```
