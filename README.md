@@ -15,7 +15,7 @@ Chat33 uses each platform's official API, not browser automation.
 
 ## Install
 
-**Cursor:** install Chat33 from the Cursor Marketplace, or add the MCP server manually:
+**Cursor:** install the Chat33 plugin from [cursor.directory](https://cursor.directory/plugins/chat33), or add the MCP server manually:
 
 ```json
 {
@@ -51,6 +51,7 @@ assets/logo.png
 
 ## Links
 
+- Cursor Directory: https://cursor.directory/plugins/chat33
 - Setup guide: https://chat33.io/cursor
 - MCP tools: https://chat33.io/mcp
 - REST API: https://chat33.io/developers
