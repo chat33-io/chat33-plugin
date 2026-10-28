@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "chat33",
+  "version": "1.0.0",
+  "description": "Instagram, Facebook and Threads comment-to-DM and reply automations, DM inbox and comment replies, and posting and scheduling to 8 social networks, all from your agent.",
+  "author": {
+    "name": "Chat33",
+    "email": "support@chat33.io",
+    "url": "https://chat33.io"
+  },
+  "homepage": "https://chat33.io/agents",
+  "keywords": [
+    "instagram",
+    "comment to dm",
+    "dm automation",
+    "facebook",
+    "social media",
+    "scheduling",
+    "inbox",
+    "threads"
+  ]
+}

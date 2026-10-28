@@ -1,0 +1,33 @@
+{
+  "name": "chat33",
+  "displayName": "Chat33",
+  "version": "1.0.0",
+  "description": "Chat33 for Cursor: Instagram, Facebook and Threads comment-to-DM and reply automations, DM inbox and comment replies, and posting and scheduling to 8 social networks, all from your agent.",
+  "author": {
+    "name": "Chat33",
+    "email": "support@chat33.io"
+  },
+  "homepage": "https://chat33.io/cursor",
+  "repository": "https://github.com/chat33-io/chat33-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "instagram",
+    "comment-to-dm",
+    "dm-automation",
+    "facebook",
+    "social-media",
+    "scheduling",
+    "inbox",
+    "mcp",
+    "threads"
+  ],
+  "category": "integrations",
+  "tags": [
+    "instagram",
+    "facebook",
+    "social-media",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
