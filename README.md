@@ -29,6 +29,16 @@ Sign in with your Chat33 account in the browser when asked. No API key needed. N
 
 Then connect Instagram or a Facebook Page at https://chat33.io/channels.
 
+**Grok:** automate social media posting and DM flows with Grok. Open grok.com/connectors, click New Connector, choose Custom, enter `https://chat33.io/api/mcp/mcp` and sign in with Chat33.
+
+**Claude Code:**
+
+```bash
+claude mcp add --transport http chat33 https://chat33.io/api/mcp/mcp
+```
+
+**Codex, ChatGPT and other MCP clients:** add a remote MCP server with the URL `https://chat33.io/api/mcp/mcp`. Setup guides: https://chat33.io/agents
+
 ## Contents
 
 ```
