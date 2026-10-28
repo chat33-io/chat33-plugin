@@ -1,8 +1,8 @@
 {
   "name": "chat33",
   "displayName": "Chat33",
-  "version": "1.0.0",
-  "description": "Chat33 for Cursor: Instagram, Facebook and Threads comment-to-DM and reply automations, DM inbox and comment replies, and posting and scheduling to 8 social networks, all from your agent.",
+  "version": "1.1.0",
+  "description": "Instagram, Facebook and Threads comment-to-DM automations, email lead capture, sales funnels, DM inbox and comment replies, and posting to 8 social networks, all from your agent.",
   "author": {
     "name": "Chat33",
     "email": "support@chat33.io"
@@ -20,7 +20,10 @@
     "scheduling",
     "inbox",
     "mcp",
-    "threads"
+    "threads",
+    "lead-capture",
+    "sales-funnels",
+    "automation"
   ],
   "category": "integrations",
   "tags": [

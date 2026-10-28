@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "chat33",
-  "version": "1.0.0",
-  "description": "Instagram, Facebook and Threads comment-to-DM and reply automations, DM inbox and comment replies, and posting and scheduling to 8 social networks, all from your agent.",
+  "version": "1.1.0",
+  "description": "Instagram, Facebook and Threads comment-to-DM automations, email lead capture, sales funnels, DM inbox and comment replies, and posting to 8 social networks, all from your agent.",
   "author": {
     "name": "Chat33",
     "email": "support@chat33.io",
@@ -17,6 +17,9 @@
     "social media",
     "scheduling",
     "inbox",
-    "threads"
+    "threads",
+    "lead-capture",
+    "sales-funnels",
+    "automation"
   ]
 }
